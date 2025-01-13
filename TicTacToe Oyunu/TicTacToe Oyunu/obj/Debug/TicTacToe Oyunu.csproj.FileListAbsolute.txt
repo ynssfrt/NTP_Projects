@@ -1,0 +1,10 @@
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.csproj.AssemblyReference.cache
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe_Oyunu.Properties.Resources.resources
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.csproj.GenerateResource.cache
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.csproj.CoreCompileInputs.cache
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\bin\Debug\TicTacToe Oyunu.exe.config
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\bin\Debug\TicTacToe Oyunu.exe
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\bin\Debug\TicTacToe Oyunu.pdb
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.exe
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToe Oyunu.pdb
+D:\Users\yunus\source\repos\TicTacToe Oyunu\TicTacToe Oyunu\obj\Debug\TicTacToeOyunu.Form1.resources
