@@ -1,0 +1,9 @@
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.AssemblyReference.cache
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+D:\Users\yunus\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
