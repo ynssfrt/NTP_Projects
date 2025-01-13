@@ -1,0 +1,10 @@
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe.config
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.AssemblyReference.cache
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.Form1.resources
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.Properties.Resources.resources
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.GenerateResource.cache
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.CoreCompileInputs.cache
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+D:\Users\yunus\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.pdb
